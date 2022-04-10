@@ -1,0 +1,17 @@
+Algoritmos sao conjuntos de passos finitos e organizados que, quando executados,
+resolvem um determinado problema.
+
+
+Phi = 1,618
+
+Algoritimo AtravessarRua 
+
+	olhar para a direita
+	olhar para a esquerda
+	se estiver vindo carro
+		nao atravesse
+	   se nao
+		atravesse
+	sim-se
+
+Fim-Algoritmo
